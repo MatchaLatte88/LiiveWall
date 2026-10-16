@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LiveWall</string>
+    <string name="wallpaper_label">Unterwasser-Aurora</string>
+    <string name="wallpaper_description">Ruhige, elegante Live-Hintergründe in Tiefsee-Farben, die den Akku schonen.</string>
+
+    <string name="not_active_hint">Noch nicht als Hintergrund gesetzt</string>
+    <string name="set_wallpaper">Festlegen</string>
+
+    <string name="tab_style">Stil</string>
+    <string name="tab_colors">Farben</string>
+    <string name="tab_custom">Eigene</string>
+    <string name="tab_adjust">Anpassen</string>
+    <string name="tab_battery">Akku</string>
+
+    <string name="style_gradient">Verlauf</string>
+    <string name="style_aurora">Aurora</string>
+    <string name="style_mist">Nebel</string>
+    <string name="style_waves">Wellen</string>
+    <string name="style_caustics">Lichtspiel</string>
+    <string name="style_honeycomb">Waben</string>
+    <string name="style_contours">Höhenlinien</string>
+    <string name="style_bokeh">Bokeh</string>
+    <string name="style_dunes">Dünen</string>
+    <string name="style_rays">Lichtstrahlen</string>
+    <string name="style_ink">Tinte</string>
+    <string name="style_moire">Moiré</string>
+    <string name="style_katakana">Matrix</string>
+
+    <string name="palette_deep_sea">Tiefsee</string>
+    <string name="palette_polar">Polarlicht</string>
+    <string name="palette_lagoon">Lagune</string>
+    <string name="palette_sakura">Sakura</string>
+    <string name="palette_honey">Honig</string>
+    <string name="palette_graphite">Graphit</string>
+    <string name="palette_custom">Eigene</string>
+
+    <string name="glyph_set">Zeichen</string>
+    <string name="glyphs_katakana">Katakana</string>
+    <string name="glyphs_hiragana">Hiragana</string>
+    <string name="glyphs_hangul">Hangul</string>
+    <string name="glyphs_zhuyin">Zhuyin</string>
+    <string name="speed">Tempo</string>
+    <string name="intensity">Stärke</string>
+    <string name="particles">Teilchen</string>
+    <string name="multicolor">Mehrfarbig</string>
+    <string name="fill_areas">Flächen färben</string>
+    <string name="touch_response">Reagiert auf Berührung</string>
+    <string name="time_of_day">Farben nach Tageszeit</string>
+    <string name="time_of_day_note">Die Farben folgen der Tageszeit (Morgen, Tag, Abend, Nacht) und wechseln innerhalb von etwa 30 Minuten fließend. Die Farben jeder Phase stellst du unter „Eigene“ ein. Paletten gelten nur, wenn „Farben nach Tageszeit“ unter „Anpassen“ aus ist.</string>
+    <string name="custom_time_of_day_hint">Du bearbeitest die gewählte Phase. Zu sehen ist nur die aktuelle Tageszeit; die anderen Phasen siehst du, wenn sie dran sind.</string>
+    <string name="phase_morning">Morgen</string>
+    <string name="phase_day">Tag</string>
+    <string name="phase_evening">Abend</string>
+    <string name="phase_night">Nacht</string>
+    <string name="phase_reset">Phase zurücksetzen</string>
+    <string name="color_background">Hintergrund</string>
+    <string name="color_accent">Akzent %1$d</string>
+    <string name="color_hue">Farbton</string>
+    <string name="color_saturation">Sättigung</string>
+    <string name="color_brightness">Helligkeit</string>
+    <string name="custom_multicolor_hint">Schalte unter „Anpassen“ „Mehrfarbig“ ein, um mehr Akzentfarben zu nutzen.</string>
+    <string name="custom_static_hint">Dieser Stil nutzt nur die Hintergrundfarbe.</string>
+    <string name="static_note">Dieser Stil ist statisch: Er wird einmal gezeichnet und verbraucht im Betrieb keinen Akku.</string>
+
+    <string name="mode_eco">Sparsam</string>
+    <string name="mode_balanced">Ausgewogen</string>
+    <string name="mode_smooth">Flüssig</string>
+    <string name="mode_detail">%1$d fps · %2$d %% Render-Auflösung</string>
+    <string name="battery_saver_note">Solange der Android-Energiesparmodus aktiv ist, wechseln animierte Stile automatisch auf „Sparsam“.</string>
+</resources>

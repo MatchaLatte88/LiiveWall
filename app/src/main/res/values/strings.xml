@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LiveWall</string>
+    <string name="wallpaper_label">Underwater Aurora</string>
+    <string name="wallpaper_description">Calm, elegant live backgrounds in deep sea colors that are easy on the battery.</string>
+
+    <string name="not_active_hint">Not set as wallpaper yet</string>
+    <string name="set_wallpaper">Set wallpaper</string>
+
+    <string name="tab_style">Style</string>
+    <string name="tab_colors">Colors</string>
+    <string name="tab_custom">Custom</string>
+    <string name="tab_adjust">Adjust</string>
+    <string name="tab_battery">Battery</string>
+
+    <string name="style_gradient">Gradient</string>
+    <string name="style_aurora">Aurora</string>
+    <string name="style_mist">Mist</string>
+    <string name="style_waves">Waves</string>
+    <string name="style_caustics">Caustics</string>
+    <string name="style_honeycomb">Honeycomb</string>
+    <string name="style_contours">Contours</string>
+    <string name="style_bokeh">Bokeh</string>
+    <string name="style_dunes">Dunes</string>
+    <string name="style_rays">Light rays</string>
+    <string name="style_ink">Ink</string>
+    <string name="style_moire">Moiré</string>
+    <string name="style_katakana">Matrix</string>
+
+    <string name="palette_deep_sea">Deep sea</string>
+    <string name="palette_polar">Polar</string>
+    <string name="palette_lagoon">Lagoon</string>
+    <string name="palette_sakura">Sakura</string>
+    <string name="palette_honey">Honey</string>
+    <string name="palette_graphite">Graphite</string>
+    <string name="palette_custom">Custom</string>
+
+    <string name="glyph_set">Characters</string>
+    <string name="glyphs_katakana">Katakana</string>
+    <string name="glyphs_hiragana">Hiragana</string>
+    <string name="glyphs_hangul">Hangul</string>
+    <string name="glyphs_zhuyin">Zhuyin</string>
+    <string name="speed">Speed</string>
+    <string name="intensity">Strength</string>
+    <string name="particles">Particles</string>
+    <string name="multicolor">Multicolor</string>
+    <string name="fill_areas">Tint the areas</string>
+    <string name="touch_response">React to touch</string>
+    <string name="time_of_day">Colors by time of day</string>
+    <string name="time_of_day_note">The colors follow the time of day (morning, day, evening, night) and fade over about 30 minutes. You set the colors of each phase under Custom. Palettes only apply while \"Colors by time of day\" under Adjust is off.</string>
+    <string name="custom_time_of_day_hint">You are editing the selected phase. Only the current time of day is visible; you will see the other phases when their time comes.</string>
+    <string name="phase_morning">Morning</string>
+    <string name="phase_day">Day</string>
+    <string name="phase_evening">Evening</string>
+    <string name="phase_night">Night</string>
+    <string name="phase_reset">Reset phase</string>
+    <string name="color_background">Background</string>
+    <string name="color_accent">Accent %1$d</string>
+    <string name="color_hue">Hue</string>
+    <string name="color_saturation">Saturation</string>
+    <string name="color_brightness">Brightness</string>
+    <string name="custom_multicolor_hint">Turn on Multicolor under Adjust to use more accent colors.</string>
+    <string name="custom_static_hint">This style only uses the background color.</string>
+    <string name="static_note">This style is static: it is drawn once and uses no battery while it is on screen.</string>
+
+    <string name="mode_eco">Eco</string>
+    <string name="mode_balanced">Balanced</string>
+    <string name="mode_smooth">Smooth</string>
+    <string name="mode_detail">%1$d fps · %2$d %% render resolution</string>
+    <string name="battery_saver_note">While Android Battery Saver is on, animated styles automatically switch to Eco.</string>
+</resources>

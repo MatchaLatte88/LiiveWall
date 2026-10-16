@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Wallpaper theme: the live wallpaper shows through the empty area above the settings panel. -->
+    <style name="Theme.LiveWall" parent="android:Theme.DeviceDefault.Wallpaper.NoTitleBar" />
+</resources>
